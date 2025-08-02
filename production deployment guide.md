@@ -749,12 +749,11 @@ CREATE INDEX idx_user_preferences_user_id ON user_preferences(user_id);
 ## 📞 Support
 
 For production support:
-- **Documentation**: https://docs.jarvis-ai.com
-- **Issues**: https://github.com/Aadil-alt/jarvis-ai/issues
-- **Community**: https://discord.gg/jarvis-ai
-- **Enterprise Support**: support@jarvis-ai.com
+- **Issues**: https://github.com/Aadil-alt/assistant
+- **Community**: https://discord.gg/Friends
+- **Contact**:https://aadim-alt.github.io/aadim/
 
 ---
 
-**Last Updated**: December 2024
+**Last Updated**: August 2025
 **Version**: 2.0.0
