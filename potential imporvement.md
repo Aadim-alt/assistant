@@ -1,3 +1,6 @@
+### This is for me or any coder out there contact me if you improved it because I am lazy to do so. Best of luck!
+
+
 Immediate (Week 1-2):
 
 Split the monolithic file into modules as shown in the refactored structure
